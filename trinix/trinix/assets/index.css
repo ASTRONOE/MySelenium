@@ -1,0 +1,65 @@
+.main {
+  background: #f2f2f2;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  padding: 30px
+}
+
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: calc(100% - 40px); /* Adjust the width to accommodate the button */
+  border: 3px solid #00b4cc;
+  padding: 5px;
+  height: 40px;
+  border-radius: 5px; /* Apply border-radius to all sides */
+  outline: none;
+  color: #000;
+}
+
+.searchTerm:focus {
+  color: #000;
+}
+
+.domainButtons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.domainButtons button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #5d503f;
+  color: white;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.domainButtons button:hover {
+  background-color: #0099b3;
+}
+
+.domain-list {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+.domain-list li {
+  font-family: 'Roboto', sans-serif; /* Choose a sci-fi inspired font */
+  font-weight: bold; /* Make the font bold */
+  font-size: 16px; /* Adjust font size as needed */
+  color: #333; /* Set the font color */
+  padding: 10px 0; /* Add padding to space out the items */
+  border-bottom: 1px solid #ccc; /* Add a bottom border to create horizontal lines */
+}
+
+/* Style for the last item to remove the bottom border */
+.domain-list li:last-child {
+  border-bottom: none;
+}

@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "trinix"
+version = "0.1.0"
+description = "A preliminary task for a job at Trinix tech"
+authors = ["Truse Diffa <diffabitrus55@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+whois = "^1.20240129.2"
+requests = "^2.31.0"
+scrapy = "^2.11.1"
+dash = "^2.15.0"
+dash-bootstrap-components = "^1.5.0"
+python-whois = "^0.8.0"
+selenium = "^4.19.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

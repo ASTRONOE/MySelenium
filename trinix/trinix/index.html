@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domain extractor</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+<body>
+    <main>
+        <div>
+            <h2>Domain Name Search</h2>
+            <h4>Use our domain checker tool to find the perfect name for your online project.</h4>
+            <div class="search">
+                <input id="query" type="text" class="searchTerm" placeholder="What domain are you looking for?">
+            </div>
+            <h4>Choose from any of the registrars below</h4>
+            <div class="domainButtons" style="text-align: center; padding: 20px;">
+                <button id="hostinger-button">HOSTINGER</button>
+                <button id="namecheap-button">NAMECHEAP</button>
+                <button id="whois-button">WHOIS</button>
+            </div>
+            <div id="domains-table"></div>
+            <button id="quit-button" class="btn btn-danger" style="position: fixed; bottom: 10px; right: 10px;">X</button>
+        </div>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dash-renderer/1.17.1/dash_renderer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dash-renderer/1.17.1/dash_renderer.dev.js"></script>
+</body>
+</html>

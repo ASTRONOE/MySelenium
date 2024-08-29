@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "instabot"
+version = "0.1.0"
+description = ""
+authors = ["ASTRONOE <diffabitrus55@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+selenium = "^4.21.0"
+instapy = "^0.6.16"
+maskpass = "^0.3.7"
+packaging = "^24.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

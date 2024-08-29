@@ -1,0 +1,721 @@
+{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47150",
+      "link": "https://www.radarbox.com/data/flights/P47150/2213066265"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "08:35 WAT",
+   "arrival": {
+      "location": "Owerri (QOW/DNIM)",
+      "link": "https://www.radarbox.com/data/airports/QOW",
+      "airport": "(QOW/DNIM)"
+   },
+   "scheduled time of arrival": "09:45 WAT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "01h10m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47121",
+      "link": "https://www.radarbox.com/data/flights/P47121/2213066241"
+   },
+   "departure": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of departure": "08:30 WAT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "09:50 WAT",
+   "aircraft": {
+      "id": "E295",
+      "link": "https://www.radarbox.com/data/aircraft-models/E295"
+   },
+   "status": "Scheduled",
+   "duration": "01h20m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47111",
+      "link": "https://www.radarbox.com/data/flights/P47111/2213066230"
+   },
+   "departure": {
+      "location": "Ilorin (ILR/DNIL)",
+      "link": "https://www.radarbox.com/data/airports/ILR",
+      "airport": "(ILR/DNIL)"
+   },
+   "scheduled time of departure": "08:25 WAT",
+   "arrival": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of arrival": "09:25 WAT",
+   "aircraft": {
+      "id": "E145",
+      "link": "https://www.radarbox.com/data/aircraft-models/E145"
+   },
+   "status": "Scheduled",
+   "duration": "01h00m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47771",
+      "link": "https://www.radarbox.com/data/flights/P47771/2213066373"
+   },
+   "departure": {
+      "location": "Abidjan (ABJ/DIAP)",
+      "link": "https://www.radarbox.com/data/airports/ABJ",
+      "airport": "(ABJ/DIAP)"
+   },
+   "scheduled time of departure": "06:50 GMT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "09:20 WAT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "01h30m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47750",
+      "link": "https://www.radarbox.com/data/flights/P47750/2213066352"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "07:00 WAT",
+   "arrival": {
+      "location": "Accra (ACC/DGAA)",
+      "link": "https://www.radarbox.com/data/airports/ACC",
+      "airport": "(ACC/DGAA)"
+   },
+   "scheduled time of arrival": "07:05 GMT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "01h05m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47860",
+      "link": "https://www.radarbox.com/data/flights/P47860/2213066375"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "07:00 WAT",
+   "arrival": {
+      "location": "Asaba (ABB/DNAS)",
+      "link": "https://www.radarbox.com/data/airports/ABB",
+      "airport": "(ABB/DNAS)"
+   },
+   "scheduled time of arrival": "08:10 WAT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "01h10m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47110",
+      "link": "https://www.radarbox.com/data/flights/P47110/2213066228"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "07:00 WAT",
+   "arrival": {
+      "location": "Ilorin (ILR/DNIL)",
+      "link": "https://www.radarbox.com/data/airports/ILR",
+      "airport": "(ILR/DNIL)"
+   },
+   "scheduled time of arrival": "07:55 WAT",
+   "aircraft": {
+      "id": "E145",
+      "link": "https://www.radarbox.com/data/aircraft-models/E145"
+   },
+   "status": "Scheduled",
+   "duration": "00h55m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47100",
+      "link": "https://www.radarbox.com/data/flights/P47100/2213066217"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "06:50 WAT",
+   "arrival": {
+      "location": "Enegu (ENU/DNEN)",
+      "link": "https://www.radarbox.com/data/airports/ENU",
+      "airport": "(ENU/DNEN)"
+   },
+   "scheduled time of arrival": "08:00 WAT",
+   "aircraft": {
+      "id": "B737",
+      "link": "https://www.radarbox.com/data/aircraft-models/B737"
+   },
+   "status": "Scheduled",
+   "duration": "01h10m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47190",
+      "link": "https://www.radarbox.com/data/flights/P47190/2213066288"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "06:45 WAT",
+   "arrival": {
+      "location": "Port Harcourt (PHC/DNPO)",
+      "link": "https://www.radarbox.com/data/airports/PHC",
+      "airport": "(PHC/DNPO)"
+   },
+   "scheduled time of arrival": "07:55 WAT",
+   "aircraft": {
+      "id": "B737",
+      "link": "https://www.radarbox.com/data/aircraft-models/B737"
+   },
+   "status": "Scheduled",
+   "duration": "01h10m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47120",
+      "link": "https://www.radarbox.com/data/flights/P47120/2213066239"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "06:30 WAT",
+   "arrival": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of arrival": "07:50 WAT",
+   "aircraft": {
+      "id": "E295",
+      "link": "https://www.radarbox.com/data/aircraft-models/E295"
+   },
+   "status": "Scheduled",
+   "duration": "01h20m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47131",
+      "link": "https://www.radarbox.com/data/flights/P47131/2213066249"
+   },
+   "departure": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of departure": "06:30 WAT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "07:50 WAT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "01h20m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47537",
+      "link": "https://www.radarbox.com/data/flights/P47537/2213066348"
+   },
+   "departure": {
+      "location": "Accra (ACC/DGAA)",
+      "link": "https://www.radarbox.com/data/airports/ACC",
+      "airport": "(ACC/DGAA)"
+   },
+   "scheduled time of departure": "03:40 GMT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "05:45 WAT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "01h05m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47771",
+      "link": "https://www.radarbox.com/data/flights/P47771/2213066369"
+   },
+   "departure": {
+      "location": "Banjul (BJL/GBYD)",
+      "link": "https://www.radarbox.com/data/airports/BJL",
+      "airport": "(BJL/GBYD)"
+   },
+   "scheduled time of departure": "03:10 GMT",
+   "arrival": {
+      "location": "Abidjan (ABJ/DIAP)",
+      "link": "https://www.radarbox.com/data/airports/ABJ",
+      "airport": "(ABJ/DIAP)"
+   },
+   "scheduled time of arrival": "06:10 GMT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "03h00m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47771",
+      "link": "https://www.radarbox.com/data/flights/P47771/2213066367"
+   },
+   "departure": {
+      "location": "Dakar (DSS/GOBD)",
+      "link": "https://www.radarbox.com/data/airports/DSS",
+      "airport": "(DSS/GOBD)"
+   },
+   "scheduled time of departure": "01:40 GMT",
+   "arrival": {
+      "location": "Banjul (BJL/GBYD)",
+      "link": "https://www.radarbox.com/data/airports/BJL",
+      "airport": "(BJL/GBYD)"
+   },
+   "scheduled time of arrival": "02:30 GMT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "00h50m"
+}{
+   "date": "2024 24 Aug",
+   "flight": {
+      "id": "P47537",
+      "link": "https://www.radarbox.com/data/flights/P47537/2213066345"
+   },
+   "departure": {
+      "location": "Monrovia (ROB/GLRB)",
+      "link": "https://www.radarbox.com/data/airports/ROB",
+      "airport": "(ROB/GLRB)"
+   },
+   "scheduled time of departure": "01:00 GMT",
+   "arrival": {
+      "location": "Accra (ACC/DGAA)",
+      "link": "https://www.radarbox.com/data/airports/ACC",
+      "airport": "(ACC/DGAA)"
+   },
+   "scheduled time of arrival": "03:00 GMT",
+   "aircraft": {
+      "id": "B735",
+      "link": "https://www.radarbox.com/data/aircraft-models/B735"
+   },
+   "status": "Scheduled",
+   "duration": "02h00m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47173",
+      "link": "https://www.radarbox.com/data/flights/P47173/2213880630"
+   },
+   "departure": {
+      "location": "Benin (BNI/DNBE)",
+      "link": "https://www.radarbox.com/data/airports/BNI",
+      "airport": "(BNI/DNBE)"
+   },
+   "scheduled time of departure": "16:50 WAT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "17:50 WAT",
+   "aircraft": {
+      "id": "B733",
+      "link": "https://www.radarbox.com/data/aircraft-models/B733"
+   },
+   "status": "Landed 17:17 WAT",
+   "duration": "00h29m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47191",
+      "link": "https://www.radarbox.com/data/flights/P47191/2213876569"
+   },
+   "departure": {
+      "location": "Port Harcourt (PHC/DNPO)",
+      "link": "https://www.radarbox.com/data/airports/PHC",
+      "airport": "(PHC/DNPO)"
+   },
+   "scheduled time of departure": "N/A",
+   "arrival": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of arrival": "N/A",
+   "aircraft": {
+      "id": "N/A",
+      "link": "#"
+   },
+   "status": "N/A",
+   "duration": "N/A"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47444",
+      "link": "https://www.radarbox.com/data/flights/P47444/2212519788"
+   },
+   "departure": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of departure": "15:45 WAT",
+   "arrival": {
+      "location": "Maiduguri (MIU/DNMA)",
+      "link": "https://www.radarbox.com/data/airports/MIU",
+      "airport": "(MIU/DNMA)"
+   },
+   "scheduled time of arrival": "17:25 WAT",
+   "aircraft": {
+      "id": "B737",
+      "link": "https://www.radarbox.com/data/aircraft-models/B737"
+   },
+   "status": "Scheduled",
+   "duration": "01h40m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47170",
+      "link": "https://www.radarbox.com/data/flights/P47170/2213845534"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "15:20 WAT",
+   "arrival": {
+      "location": "Benin (BNI/DNBE)",
+      "link": "https://www.radarbox.com/data/airports/BNI",
+      "airport": "(BNI/DNBE)"
+   },
+   "scheduled time of arrival": "16:20 WAT",
+   "aircraft": {
+      "id": "B733",
+      "link": "https://www.radarbox.com/data/aircraft-models/B733"
+   },
+   "status": "Landed 15:54 WAT",
+   "duration": "00h38m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47428",
+      "link": "https://www.radarbox.com/data/flights/P47428/2213837198"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "N/A",
+   "arrival": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of arrival": "N/A",
+   "aircraft": {
+      "id": "N/A",
+      "link": "#"
+   },
+   "status": "N/A",
+   "duration": "N/A"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47190",
+      "link": "https://www.radarbox.com/data/flights/P47190/2213823366"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "N/A",
+   "arrival": {
+      "location": "Port Harcourt (PHC/DNPO)",
+      "link": "https://www.radarbox.com/data/airports/PHC",
+      "airport": "(PHC/DNPO)"
+   },
+   "scheduled time of arrival": "N/A",
+   "aircraft": {
+      "id": "B737",
+      "link": "https://www.radarbox.com/data/aircraft-models/B737"
+   },
+   "status": "Landed 15:01 WAT",
+   "duration": "00h41m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47444",
+      "link": "https://www.radarbox.com/data/flights/P47444/2213819224"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "13:45 WAT",
+   "arrival": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of arrival": "15:05 WAT",
+   "aircraft": {
+      "id": "B773",
+      "link": "https://www.radarbox.com/data/aircraft-models/B773"
+   },
+   "status": "Landed 15:02 WAT",
+   "duration": "00h38m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47153",
+      "link": "https://www.radarbox.com/data/flights/P47153/2213769034"
+   },
+   "departure": {
+      "location": "Owerri (QOW/DNIM)",
+      "link": "https://www.radarbox.com/data/airports/QOW",
+      "airport": "(QOW/DNIM)"
+   },
+   "scheduled time of departure": "13:25 WAT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "14:35 WAT",
+   "aircraft": {
+      "id": "B733",
+      "link": "https://www.radarbox.com/data/aircraft-models/B733"
+   },
+   "status": "Landed 13:14 WAT",
+   "duration": "00h51m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47125",
+      "link": "https://www.radarbox.com/data/flights/P47125/2213881170"
+   },
+   "departure": {
+      "location": "Abuja (ABV/DNAA)",
+      "link": "https://www.radarbox.com/data/airports/ABV",
+      "airport": "(ABV/DNAA)"
+   },
+   "scheduled time of departure": "12:35 WAT",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "13:55 WAT",
+   "aircraft": {
+      "id": "B773",
+      "link": "https://www.radarbox.com/data/aircraft-models/B773"
+   },
+   "status": "Landed 17:30 WAT",
+   "duration": "00h52m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "APK7121",
+      "link": "https://www.radarbox.com/data/flights/APK7121/2213733662"
+   },
+   "departure": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of departure": "N/A",
+   "arrival": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of arrival": "N/A",
+   "aircraft": {
+      "id": "N/A",
+      "link": "#"
+   },
+   "status": "N/A",
+   "duration": "N/A"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47579",
+      "link": "https://www.radarbox.com/data/flights/P47579/2213734486"
+   },
+   "departure": {
+      "location": "London Gatwick (LGW/EGKK)",
+      "link": "https://www.radarbox.com/data/airports/LGW",
+      "airport": "(LGW/EGKK)"
+   },
+   "scheduled time of departure": "11:30 BST",
+   "arrival": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of arrival": "18:10 WAT",
+   "aircraft": {
+      "id": "B772",
+      "link": "https://www.radarbox.com/data/aircraft-models/B772"
+   },
+   "status": "Est. Arrival 18:18 WAT",
+   "duration": "06h40m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47210",
+      "link": "https://www.radarbox.com/data/flights/P47210/2213703802"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "10:45 WAT",
+   "arrival": {
+      "location": "Warri (QRW/DSNU)",
+      "link": "https://www.radarbox.com/data/airports/QRW",
+      "airport": "(QRW/DSNU)"
+   },
+   "scheduled time of arrival": "11:45 WAT",
+   "aircraft": {
+      "id": "E295",
+      "link": "https://www.radarbox.com/data/aircraft-models/E295"
+   },
+   "status": "Landed 13:30 WAT",
+   "duration": "02h24m"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47215",
+      "link": "https://www.radarbox.com/data/flights/P47215/2213629193"
+   },
+   "departure": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of departure": "N/A",
+   "arrival": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of arrival": "N/A",
+   "aircraft": {
+      "id": "N/A",
+      "link": "#"
+   },
+   "status": "N/A",
+   "duration": "N/A"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47120",
+      "link": "https://www.radarbox.com/data/flights/P47120/2213626783"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "N/A",
+   "arrival": {
+      "location": "N/A",
+      "link": "#",
+      "airport": "N/A"
+   },
+   "scheduled time of arrival": "N/A",
+   "aircraft": {
+      "id": "N/A",
+      "link": "#"
+   },
+   "status": "N/A",
+   "duration": "N/A"
+}{
+   "date": "2024 23 Aug",
+   "flight": {
+      "id": "P47150",
+      "link": "https://www.radarbox.com/data/flights/P47150/2213594645"
+   },
+   "departure": {
+      "location": "Lagos (LOS/DNMM)",
+      "link": "https://www.radarbox.com/data/airports/LOS",
+      "airport": "(LOS/DNMM)"
+   },
+   "scheduled time of departure": "08:35 WAT",
+   "arrival": {
+      "location": "Owerri (QOW/DNIM)",
+      "link": "https://www.radarbox.com/data/airports/QOW",
+      "airport": "(QOW/DNIM)"
+   },
+   "scheduled time of arrival": "09:45 WAT",
+   "aircraft": {
+      "id": "B733",
+      "link": "https://www.radarbox.com/data/aircraft-models/B733"
+   },
+   "status": "Landed 08:57 WAT",
+   "duration": "00h51m"
+}

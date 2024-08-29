@@ -1,0 +1,18 @@
+/* Define CSS classes for light and dark modes */
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+.toggle {
+  background-color: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 20px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 5px;
+}
+
